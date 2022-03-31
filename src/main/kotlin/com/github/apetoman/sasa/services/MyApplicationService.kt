@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.apetoman.sasa.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.apetoman.sasa.MyBundle
 
 class MyApplicationService {
 
